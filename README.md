@@ -10,5 +10,5 @@
 5. Osigurate se da gledate u solution explorer (dole), ako ga ne vidite tu, gornji meni, view->solution explorer :),
 zatim dupli klik na sln fajl
 ![Projekat](https://github.com/SystemDuo-Kurs/GitKloniranje/blob/master/Slike/5.png)
-6. Na kraju, dupli klik na Program.cs i to bi trebalod a bude to :)
+6. Na kraju, dupli klik na Program.cs i to bi trebalo da bude to :)
 ![Kod](https://github.com/SystemDuo-Kurs/GitKloniranje/blob/master/Slike/6.png)
